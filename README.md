@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I work as a teacher in a kids and teenagers robotics/videogames academy
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrr04&show_icons=true&theme=radical)
+
+![Alex's commit graph](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrr04&layout=compact&theme=radical)
