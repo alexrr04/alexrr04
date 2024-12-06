@@ -9,6 +9,7 @@
 - 📫 How to reach me: [Email](mailto:alex.542004@gmail.com), [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/alex-rodriguez-rodriguez/))
 - ⚡ Fun fact: I work as a teacher in a kids and teenagers robotics/videogames academy
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrr04&show_icons=true&theme=radical)
+![Alex's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexrr04&theme=radical)
 
-![Alex's commit graph](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrr04&layout=compact&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexrr04&theme=github-compact)](https://github.com/alexrr04/github-readme-activity-graph)
+
