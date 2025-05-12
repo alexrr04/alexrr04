@@ -7,6 +7,7 @@
   - Expo
   - Other languages such as Typescript, Python, Java or C++
 - 📫 How to reach me: [Email](mailto:alex.542004@gmail.com), [LinkedIn](https://www.linkedin.com/in/alex-rodriguez-rodriguez/)
+- 🔎 Check out my pinned projects below!
 - ⚡ Fun fact: I work as a teacher in a kids and teenagers robotics/videogames academy
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexrr04&theme=github-compact)](https://github.com/alexrr04/github-readme-activity-graph)
